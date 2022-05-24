@@ -43,11 +43,6 @@ I am a 25 y.o. Developer from Jerusalem, Israel.
 
 ---
 
-<p align='center'>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/ereldebel/github-stats/blob/master/generated/overview.svg"></a>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/ereldebel/github-stats/blob/master/generated/languages.svg"></a>
-</p>
-
 <!--
 **itamar-sh/itamar-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,4 +56,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+for future development of ReadMe:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://getemoji.com/
+
 -->
