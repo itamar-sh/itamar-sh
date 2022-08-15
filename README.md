@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Itamar Shechter
+### Hi there 👋 my name is Itamar Shechter
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/itamar-shechter/">
@@ -10,7 +10,7 @@
 I am a 25 y.o. Developer from Jerusalem, Israel.
 
 - _Computer Science_ student at the _Hebrew University, Jerusalem_.
-- Passionate about innovation, technology and the cutting edge.
+- Passionate about innovation and new technologies, this is great way to make the world a better place.
 - Driven by a thirst for knowledge. I always aim as high as possible.
 
 ---
