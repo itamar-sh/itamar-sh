@@ -62,3 +62,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://getemoji.com/
 
 -->
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/itamar-sh
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itamar-sh&theme=dark&background=000000)](https://git.io/streak-stats)
