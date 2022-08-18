@@ -68,4 +68,6 @@ https://getemoji.com/
 ### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itamar-sh)](https://github.com/anuraghazra/github-readme-stats)
 ### Traffic of Profile:
-![](https://komarev.com/ghpvc/?username=itamar-sh&style=flat-square#label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=itamar-sh&style=for-the-badge&label=PROFILE+VIEWS)
+
+![](https://hit.yhype.me/github/profile?user_id=84578656)
