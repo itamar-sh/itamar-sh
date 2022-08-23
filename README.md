@@ -72,3 +72,10 @@ https://getemoji.com/
 
 
 ![](https://hit.yhype.me/github/profile?user_id=84578656)
+
+### Competitions
+#### 21/8/2022 - Google Kickstart - Place 3204, Top 25%
+
+#### 22/8/2022 - Codechef - Aug competition - Place 388, Top 3%
+
+
