@@ -78,4 +78,6 @@ https://getemoji.com/
 
 #### 22/8/2022 - Codechef - Aug competition - Place 388, Top 3%
 
+#### 24/8/2022 - Codechef - Starters54 - Place 40, Top 1%
+
 
