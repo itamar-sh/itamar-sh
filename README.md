@@ -80,4 +80,6 @@ https://getemoji.com/
 
 #### 24/8/2022 - Codechef - Starters53 - Place 40, Top 1%
 
+#### 28/8/2022 - Leetcode - Weeekly Contess 308 - place 6708, Top 30%
+
 
