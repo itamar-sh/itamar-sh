@@ -7,7 +7,7 @@
 </p>
 
 ### About Me:
-I am a 25 y.o. Developer from Jerusalem, Israel.
+I am a 26 y.o. Developer from Jerusalem, Israel.
 
 - _Computer Science_ student at the _Hebrew University, Jerusalem_.
 - Passionate about innovation and new technologies, this is great way to make the world a better place.
