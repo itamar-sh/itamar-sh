@@ -9,7 +9,6 @@
 ### About Me:
 I am a 27 y.o. Developer from Ramat Gan, Israel.
 
-- _Computer Science_ graduated at the _Hebrew University, Jerusalem_.
 - Passionate about innovation and new technologies, this is great way to make the world a better place.
 - Driven by a thirst for knowledge. I always aim as high as possible.
 
