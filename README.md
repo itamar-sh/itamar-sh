@@ -70,12 +70,11 @@ https://getemoji.com/
 ![](https://hit.yhype.me/github/profile?user_id=84578656)
 
 ### Competitions
+
+#### 07/7/2024 - Leetcode - Weekly Contest 405 - Place 5246, Top 15%
 #### 21/8/2022 - Google Kickstart - Place 3204, Top 25%
-
 #### 22/8/2022 - Codechef - Aug competition - Place 388, Top 3%
-
 #### 24/8/2022 - Codechef - Starters53 - Place 40, Top 1%
-
-#### 28/8/2022 - Leetcode - Weeekly Contess 308 - place 6708, Top 30%
+#### 28/8/2022 - Leetcode - Weekly Contess 308 - place 6708, Top 30%
 
 
