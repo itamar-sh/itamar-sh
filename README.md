@@ -71,11 +71,12 @@ https://getemoji.com/
 
 ### Competitions
 
+#### 10/7/2024 - nakuri code360 - Weekly contest 134 - Place 198, top 30%
 #### 10/7/2024 - Codechef - Starters142 - Place 2033
 #### 07/7/2024 - Leetcode - Weekly Contest 405 - Place 5246, Top 15%
 #### 21/8/2022 - Google Kickstart - Place 3204, Top 25%
 #### 22/8/2022 - Codechef - Aug competition - Place 388, Top 3%
 #### 24/8/2022 - Codechef - Starters53 - Place 40, Top 1%
-#### 28/8/2022 - Leetcode - Weekly Contess 308 - place 6708, Top 30%
+#### 28/8/2022 - Leetcode - Weekly Contest 308 - place 6708, Top 30%
 
 
