@@ -6,6 +6,7 @@
   </a> 
 </p>
 
+
 ### About Me:
 I am a 28 y.o. software developer from Ramat Gan, Israel.
 
@@ -13,6 +14,7 @@ I am a 28 y.o. software developer from Ramat Gan, Israel.
 - Driven by a thirst for knowledge. I always aim as high as possible.
 
 ---
+
 
 ### Languages and Tools:
 
@@ -69,6 +71,7 @@ https://getemoji.com/
 
 ![](https://hit.yhype.me/github/profile?user_id=84578656)
 
+
 ### Competitions
 
 #### 10/7/2024 - nakuri code360 - Weekly contest 134 - Place 198, top 30%
@@ -78,6 +81,7 @@ https://getemoji.com/
 #### 22/8/2022 - Codechef - Aug competition - Place 388, Top 3%
 #### 24/8/2022 - Codechef - Starters53 - Place 40, Top 1%
 #### 28/8/2022 - Leetcode - Weekly Contest 308 - place 6708, Top 30%
+
 
 ### My Elevator Speech
 Hi, I'm 28 y.o. lives in Ramat Gan.
