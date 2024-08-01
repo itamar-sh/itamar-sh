@@ -7,7 +7,7 @@
 </p>
 
 ### About Me:
-I am a 27 y.o. Developer from Ramat Gan, Israel.
+I am a 28 y.o. software developer from Ramat Gan, Israel.
 
 - Passionate about innovation and new technologies, this is great way to make the world a better place.
 - Driven by a thirst for knowledge. I always aim as high as possible.
@@ -79,4 +79,15 @@ https://getemoji.com/
 #### 24/8/2022 - Codechef - Starters53 - Place 40, Top 1%
 #### 28/8/2022 - Leetcode - Weekly Contest 308 - place 6708, Top 30%
 
+### My Elevator Speech
+Hi, I'm 28 y.o. lives in Ramat Gan.
 
+Three months age (April 2024) I have finished my first degree in computer science, extended single major.
+The meaning of "single major extended" simply says that all my choice couses where also computer science.
+On the university I gained experienced with C and CPP in OS course, Java in OOP course and a lot of python on all the choice courses because I chose
+many ML courses. My most notable progject on my degree was an app developed in Kotlin, python combined with AWS. Which manipulate PDFs.
+
+During a little bit more than one and half year (October 22) I'm working as python developer, in student postion.
+The company I work on is called Hailo, and my team is the devops team.
+My mission in the beggining was focused mainly on building python tools, validation tools.
+My other reponsiblities includes building and monitoring the software spec of out company...will be continued
