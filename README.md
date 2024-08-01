@@ -85,7 +85,7 @@ https://getemoji.com/
 ---
 
 ### My Elevator Speech
-Hi, I'm 28 y.o. lives in Ramat Gan.
+Hi, I'm 28 years old, lives in Ramat Gan.
 
 Three months age (April 2024) I have finished my first degree in computer science, extended single major.
 The meaning of "single major extended" simply says that all my choice couses where also computer science.
