@@ -82,6 +82,7 @@ https://getemoji.com/
 #### 24/8/2022 - Codechef - Starters53 - Place 40, Top 1%
 #### 28/8/2022 - Leetcode - Weekly Contest 308 - place 6708, Top 30%
 
+---
 
 ### My Elevator Speech
 Hi, I'm 28 y.o. lives in Ramat Gan.
