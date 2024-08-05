@@ -94,5 +94,5 @@ many ML courses. My most notable progject on my degree was an app developed in K
 
 During a little bit more than one and half year (October 22) I'm working as python developer, in student postion.
 The company I work on is called Hailo, and my team is the devops team.
-My mission in the beggining was focused mainly on building python tools, validation tools.
-My other reponsiblities includes building and monitoring the software spec of out company...will be continued
+My mission in the beggining was focused mainly on building python validation tools. (NN generator and code supervision)
+My devops responsibilities has two major parts - first was to build monitoring tool and the second is to develop the infrastructure of our...will be continued.
