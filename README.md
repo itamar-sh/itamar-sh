@@ -88,7 +88,7 @@ https://getemoji.com/
 Hi, I'm 28 years old, lives in Ramat Gan.
 
 Three months age (April 2024) I have finished my first degree in computer science, extended single major.
-The meaning of "single major extended" simply says that all my choice couses where also computer science.
+The meaning of "single major extended" simply says that all my elective courses where also computer science.
 On the university I gained experienced with C and CPP in OS course, Java in OOP course and a lot of python on all the choice courses because I chose
 many ML courses. My most notable progject on my degree was an app developed in Kotlin, python combined with AWS. Which manipulate PDFs.
 
@@ -96,3 +96,6 @@ During a little bit more than one and half year (October 22) I'm working as pyth
 The company I work on is called Hailo, and my team is the devops team.
 My mission in the beggining was focused mainly on building python validation tools. (NN generator and code supervision)
 My devops responsibilities has two major parts - first was to build monitoring tool and the second is to develop the infrastructure of our...will be continued.
+
+### Project from University
+An app for analyzing documents, 
