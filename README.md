@@ -87,15 +87,16 @@ https://getemoji.com/
 ### My Elevator Speech
 Hi, I'm 28 years old, lives in Ramat Gan.
 
-Four months age (April 2024) I have finished my first degree in computer science, extended single major.
-The meaning of "single major extended" simply says that all my elective courses where also computer science.
-On the university I gained experienced with C and CPP in OS course, Java in OOP course and a lot of python on all the choice courses because I chose
-many ML courses. My most notable progject on my degree was an app developed in Kotlin, python combined with AWS. Which manipulate PDFs.
+On the last two years (October 22) I'm working as python developer, in DevOps team.
+The company I work on is called Hailo, buiilding edge processor for NN.
+My work focus on building python validation tools, installation tools and pipelines.
+Examples of python tools I developed: First is NN generator which generate random NN architectures and check them on our chip.
+Second is a "CI Monitor" which is a "One tool to rule them all", in other words this tools give us real time validation on all the tools on our respobsiblity, including notifications and analyzing.
+One example for "Installation pipeline" was related to a demo application layer we provide for our clients. I build a pipeline that on one edge compile the core source code for the application,
+and on the other edge pack the compilation result in a unite format of a product running in the CI and tetsed automaticaly exactly as our client should use it.
 
-During almost the last two years (October 22) I'm working as python developer, in student postion.
-The company I work on is called Hailo, and my team is the devops team.
-My work focus on two parts: building python validation tools. (Like NN generator, and tool monitor)
-The second part is to develop different installation methods for different infrastructures and complete products.
+Half year age (April 2024) I have finished my first degree in computer science, extended single major.
+I chose to many ML courses. My most notable progject on my degree was an app developed in Kotlin, python combined with AWS. Which manipulate PDFs.
 
 ### Project from University
 An app for analyzing documents.
